@@ -1,0 +1,15 @@
+.left{
+	width: 400px;
+}
+
+section{
+	text-align: center;
+}
+
+.p{
+	display: none;
+}
+
+div:hover p{
+	display: block;
+}

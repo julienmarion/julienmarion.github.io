@@ -1,0 +1,47 @@
+
+section{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+iframe{
+	margin-left: 20%;
+}
+
+
+
+#galerie{
+	position: relative;
+	background: #677071;
+	height: 150px;
+	overflow: hidden;
+}
+
+.suiv{
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 150px;
+	width: 50px;
+	background:url(../images/fleches.jpg) right top;
+}
+
+.prec{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 150px;
+	width: 50px;
+	background:url(../images/fleches.jpg) left top;
+}
+
+.slider{
+	position: absolute;
+	top: 15px;
+	left:52px;
+	width: 2000px;
+}
+
+img{
+	height: 120px;
+}

@@ -1,0 +1,39 @@
+html{
+	background-color: #71b3ed;
+	font-family: "Comic Sans MS";}
+
+header{
+	background-image:url(../images/image2.jpg);
+	text-align: center;}
+
+body{
+	background-color: ivory;
+  	width: 85%;
+  	margin: auto;
+  	padding: 5%;}
+
+h1{
+	text-align: center;}
+
+nav li{
+	list-style-type:none;
+	display: inline;
+	border-style: solid;
+	border-radius: 2px;
+	border-width: 2.5px;
+	border-color: #355390;
+	padding-right: 1em;
+	padding-left: 1em;
+	margin: 2px;
+	box-shadow: 3px 3px 0px black;}
+
+li:hover{
+	background-color: #ABB3C4;}
+
+a{
+	text-decoration: none;
+	color: blue;}
+
+nav{
+	text-align: center;
+	margin-bottom: 40px;}
